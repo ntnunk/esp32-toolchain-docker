@@ -32,4 +32,9 @@ There are other options to monitor, etc. More documentation on the ESP32 toolcha
 found in the [ESP-IDF Programming Guide](http://esp-idf.readthedocs.io/en/latest/index.html) and in
 the [ESP-IDF GitHub repository](http://esp-idf.readthedocs.io/en/latest/index.html).
 
+The compiler toolchain the image uses is:
+(https://dl.espressif.com/dl/xtensa-esp32-elf-linux64-1.22.0-80-g6c4433a-5.2.0.tar.gz)
+
+The ESP-IDF is cloned from GitHub when the image is built.
+
 
